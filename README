@@ -1,7 +1,3 @@
-This is a mirror of http://www.vim.org/scripts/script.php?script_id=4703
+This script has been renamed to surfer.vim.
 
-
-Tag Surfer provides a tiny interface for fuzzy tag searches.
-
-Go to https://github.com/gcmt/tag-surfer for a live example and
-a quick introduction to Tag Surfer.
+http://github.com/vim-scripts/surfer.vim
